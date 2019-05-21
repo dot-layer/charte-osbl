@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#bookdown files
+_book
+_bookdown_files
+
+#system files
+*.DS_Store
