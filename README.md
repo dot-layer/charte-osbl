@@ -1,6 +1,6 @@
 # Charte des règlements .Layer
 
-Ce dépôt a comme objectif de définir et publier les la charte des ràglements de l'organisme sans but lucratif .Layer.
+Ce dépôt a comme objectif de définir et publier la charte des règlement de l'organisme sans but lucratif .Layer.
 
 ## Compiler le livre
 
