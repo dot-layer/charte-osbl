@@ -1,5 +1,5 @@
 ---
-title: "Charte des règlements .Layer"
+title: "Règlements généraux .Layer"
 author: "Conseil d'administration .Layer"
 date: "2019-08-23"
 site: bookdown::bookdown_site
@@ -9,6 +9,8 @@ link-citations: yes
 github-repo: stecaron/charte-osbl
 ---
 
-# Préface
+# Préface {-#index}
 
-Test
+Ce document vise a donner une ligne directrice à l'organisme sans but lucratif.
+
+*Note: L'effort est mis sur l'emploi de termes génériques.*

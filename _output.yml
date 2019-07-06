@@ -1,6 +1,8 @@
 bookdown::gitbook:
   config:
+    toc_depth: 1
     toc:
+      collapse: section
       before: |
         <li><a href="./">Charte de l'OSBL .Layer</a></li>
       after: |
