@@ -9,7 +9,7 @@ link-citations: yes
 github-repo: stecaron/charte-osbl
 ---
 
-# Préface {-#index}
+# Préface {-#preface}
 
 Ce document vise a donner une ligne directrice à l'organisme sans but lucratif.
 
