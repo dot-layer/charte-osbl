@@ -2,7 +2,7 @@
 
 ## Définition {-}
 
-L'assemblée générale est la rencontre de tous les membres du Regroupement Apprentissage Machine de Québec(RAM de Québec).
+L'assemblée générale est la rencontre de tous les membres du Regroupement Apprentissage Machine de Québec (RAM de Québec).
 
 ## Assemblée générale annuelle {-}
 
