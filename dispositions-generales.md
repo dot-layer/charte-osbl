@@ -12,7 +12,7 @@ c. "La communauté scientifique": désigne les étudiants, professeurs et autres
 
 Le nom officiel de l'organisme est **Regroupement en apprentissage machine de Québec**. Le nom d'exercice est **.Layer**.
 
-## Constituion {-}
+## Constitution {-}
 
 L'organisme a été constitué en février 2019, en vertu de la 3e partie de la Loi des compagnies.
 
