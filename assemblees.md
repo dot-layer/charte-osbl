@@ -4,7 +4,7 @@
 L'assemblée générale annuelle des membres de l'organisme a lieu dans les quatres (4) mois suivant la fin de l'année financière et à l'endroit déterminé par le conseil d’administration.
 
 ### Convocation de l'assemblée générale annuelle {-}
-L'avis de convocation de l'assemblée générale doit être envoyé par les moyens de communication habituels de l'organisme (liste de diffusion, courriels, appels, affiches, Facebook ou autres). Cette convocation doit comporter le lieu, la date et l'heure fixés par le conseil d'administration.
+L'avis de convocation de l'assemblée générale doit être envoyée par les moyens de communication habituels de l'organisme (liste de diffusion, courriels, appels, affiches, Facebook ou autres). Cette convocation doit comporter le lieu, la date et l'heure fixés par le conseil d'administration.
 
 L'avis de convocation doit être accompagné de l'ordre du jour et faire mention du ou des règlement(s) qui peut ou peuvent y être adopté(s) ou modifié(s) ainsi que du libellé des amendements.
 

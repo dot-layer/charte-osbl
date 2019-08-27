@@ -14,10 +14,10 @@ En cas de dissolution de l'organisme ou de cessation de ses activités, ses bien
 
 ## Amendements et modifications {-}
 
-### Membres
+### Membres {-}
 Tout membre, appuyé par trois autres membres actifs, peut présenter une demande de modification au présent règlement auprès du conseil d’administration et aura une réponse dans les 30 jours après la réception de la demande.
 
-### Assemblée générale
+### Assemblée générale {-}
 L'assemblée générale peut amender ou modifier le présent règlement. Toute proposition
 d'amendement ou de modification, pour être recevable, devra avoir été envoyée par écrit à tous
 les membres en même temps que l'avis de convocation.
