@@ -2,7 +2,7 @@
 Le conseil d'administration détient le pouvoir décisionnel final sur les affaires et recommandations provenant des membres de l'organisme.
 
 ## Nombre et composition {-} 
-Le conseil d'administration est composé de 5 membres élus par les membres actifs de l'organisme.
+Le conseil d'administration est composé de 3 membres élus par les membres actifs de l'organisme.
 
 ### Fonctions des membres {-}
 3 fonctions doivent être remplies par les membres du conseil d'administration. Idéalement, chaque membre du conseil d'administration en occupe qu'une seule.
